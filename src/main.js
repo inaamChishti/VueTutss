@@ -10,3 +10,19 @@ createApp(App).use(router).mount('#app')
 
 
 // Dev Inaam branch code
+createApp(App).use(router).mount('#app')
+createApp(App).use(router).mount('#app')
+createApp(App).use(router).mount('#app')
+
+
+
+
+// Dev Inaam branch code
+createApp(App).use(router).mount('#app')
+createApp(App).use(router).mount('#app')
+createApp(App).use(router).mount('#app')
+
+
+
+
+// Dev Inaam branch code
